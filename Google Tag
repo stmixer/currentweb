@@ -1,0 +1,27 @@
+    <div itemscope="" itemtype="http://startuptechmixer.com">
+<table width="100%">
+<tbody><tr itemscope itemtype="http://schema.org/Event">
+<td width="100"><img itemprop="image" itemprop="thumbnail" src="http://startuptechmixer.com/images/brandmark.png" width="100"/>
+</td>
+<td>
+<a itemprop="url" href="http://startuptechmixer.com/#nextevent">
+<span itemprop="name"><strong itemprop="name">Startup & Tech Mixer Oct 3rd</strong><span>
+</span></span></a>
+<div itemprop="description"><em itemprop="description">Startup & Tech Mixer and our extraordinary partners are redefining what networking means and we're inviting you to join us.</em>
+</div>
+<meta itemprop="startDate" content="2014-10-03"/> 
+<strong>
+<span itemprop="startDate" content="2014-10-03T22:00">Friday Oct 3rd</span><meta itemprop="doorTime" content="5:00 p.m."/> - 5-10pm - <span itemprop="location" itemscope itemtype="http://schema.org/Place" itemprop="location"><a itemprop="url" href="http://www.wsanfrancisco.com/">
+<span itemprop="name">The W Hotel SF</span></a><br/>
+<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" itemprop="location">
+
+<span itemprop="addressRegion"><span itemprop="addressLocality">San Francisco</span>,<span itemprop="addressRegion"> CA</span></span><br/></span></span></strong>
+
+<span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><span itemprop="price" itemprop="offers" itemtype="description"><a itemprop="url" href="http://startuptechmixer.com/#eventbrite/">
+<em>Register Today</em></a><em> at <a itemprop="url" href="http://startuptechmixer.com/#eventbrite/">Startuptechmixer.com</a></em>
+</span></span> 
+   
+</td>
+</tr>
+</tbody></table>
+   </div>
